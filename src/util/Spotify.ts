@@ -1,5 +1,5 @@
 const clientId: string = '99628be188c3474898db128733508ca3';
-const riderectURI: string = 'http://localhost:3000'
+const riderectURI: string = 'https://spotify-playlister.netlify.app'
 let accessToken: string;
 
 export function getAccesToken(){
